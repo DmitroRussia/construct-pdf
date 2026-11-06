@@ -6,7 +6,7 @@ If you find a security problem — for example, **redacted data can still be fou
 
 Write to **support@constructpdf.ru** with the subject `Security`. Include the program version, your OS, the steps to reproduce and, if possible, an anonymized example file. Do not send documents with real personal data.
 
-You will get a reply, and the fix will be listed in the release notes.
+Every report will be reviewed. Confirmed and fixed problems will be noted in the release notes.
 
 ## Supported versions
 
@@ -20,7 +20,7 @@ Only the latest release receives fixes. The program checks for updates and offer
 
 Напишите на **support@constructpdf.ru** с темой `Security`. Укажите версию программы, систему, шаги для воспроизведения и, если можно, обезличенный пример файла. Не отправляйте документы с реальными персональными данными.
 
-Вы получите ответ, а исправление будет указано в описании релиза.
+Мы рассмотрим сообщение. Подтверждённые и исправленные проблемы будут отмечены в описании релиза.
 
 ## Поддерживаемые версии
 

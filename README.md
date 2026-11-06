@@ -36,12 +36,12 @@ No ads, no sign-up, no watermarks. Works offline: your documents stay on your co
 
 ## Download
 
-| Platform | File | Where |
+| Platform | File | Download |
 |---|---|---|
 | Windows 7, 8.1, 10, 11 | Installer, about 18 MB | [constructpdf.ru](https://constructpdf.ru/en/download.html) · [GitHub mirror](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
-| Windows | Portable ZIP, runs without installation | same |
-| Linux x64 | Beta, `.tar.gz` — some Windows features are still being ported | [GitHub mirror](https://github.com/DmitroRussia/construct-pdf/releases/latest) · website |
-| Any browser | Online version, no installation | [constructpdf.online](https://constructpdf.online/en/) |
+| Windows 7, 8.1, 10, 11 | Portable ZIP, runs without installation | [constructpdf.ru](https://constructpdf.ru/en/download.html) · [GitHub mirror](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
+| Linux x64 | Beta, `.tar.gz` — some Windows features are still being ported | [constructpdf.ru](https://constructpdf.ru/en/pdf-editor-linux.html) · [GitHub mirror](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
+| Web version | Works in a browser, no installation | [constructpdf.online](https://constructpdf.online/en/) |
 
 The app checks for updates and offers to install a new version.
 

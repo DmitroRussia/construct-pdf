@@ -35,18 +35,18 @@
 <p align="center">
 <img src="images/compress.png" alt="Сжатие до заданного размера" width="600">
 </p>
-<sub>Схема на учебном примере, данные вымышлены.</sub>
+<p align="center"><sub>Схема на учебном примере, данные вымышлены.</sub></p>
 
 **Ещё:** объединение, разделение, поворот, удаление и извлечение страниц · подпись через КриптоПро, нарисованная или из картинки · PDF в Word, картинки в PDF и обратно.
 
 ## Скачать
 
-| Система | Файл | Где |
+| Система | Файл | Скачать |
 |---|---|---|
 | Windows 7, 8.1, 10, 11 | Установщик, около 18 МБ | [constructpdf.ru](https://constructpdf.ru/skachat.html) · [копия на GitHub](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
-| Windows | ZIP без установки | там же |
-| Linux x64 | Бета, `.tar.gz` — часть функций Windows-версии ещё переносится | [копия на GitHub](https://github.com/DmitroRussia/construct-pdf/releases/latest) · сайт |
-| Любой браузер | Онлайн-версия без установки | [constructpdf.online](https://constructpdf.online) |
+| Windows 7, 8.1, 10, 11 | ZIP без установки | [constructpdf.ru](https://constructpdf.ru/skachat.html) · [копия на GitHub](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
+| Linux x64 | Бета, `.tar.gz` — часть функций Windows-версии ещё переносится | [constructpdf.ru](https://constructpdf.ru/pdf-redaktor-linux.html) · [копия на GitHub](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
+| Онлайн-версия | Работает в браузере, без установки | [constructpdf.online](https://constructpdf.online) |
 
 Программа сама проверяет обновления и предлагает установить новую версию.
 
