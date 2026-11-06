@@ -16,7 +16,7 @@ Works offline: your files never leave your computer.
 
 ## Features
 
-| | |
+| Feature | What it does |
 |---|---|
 | **Edits text in PDFs and scans** | The main feature: edit text right in a PDF or a scanned page, with a matching font — like in a regular word processor. |
 | **Compresses PDFs to a target size** | Enter the size in megabytes and the app picks the compression so the file fits an upload limit while the text stays readable. |
