@@ -1,0 +1,46 @@
+name: Bug report / Сообщить об ошибке
+description: Something does not work as expected / Что-то работает не так
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Do not attach passports, contracts or other documents with real personal data. Use an anonymized example.**
+        **Не прикладывайте паспорта, договоры и другие документы с реальными персональными данными. Используйте обезличенный пример.**
+  - type: input
+    id: version
+    attributes:
+      label: Program version / Версия программы
+      placeholder: "1.7"
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: OS / Система
+      options: [Windows 11, Windows 10, Windows 8.1, Windows 7, Linux (beta), Online version / онлайн-версия]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps / Что вы делали
+      placeholder: "1. Open… 2. Click… / 1. Открыл… 2. Нажал…"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result / Что ожидали
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result / Что получилось
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshot or example file (optional) / Скриншот или пример (необязательно)

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem / Проблема безопасности
+    url: https://github.com/DmitroRussia/construct-pdf/blob/main/SECURITY.md
+    about: Report privately, not in a public issue / Сообщите приватно, не в открытом issue
+  - name: Email / Почта
+    url: mailto:support@constructpdf.ru
+    about: support@constructpdf.ru

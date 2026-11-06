@@ -1,0 +1,21 @@
+name: Feature request / Предложить улучшение
+description: An idea for the program / Идея для программы
+labels: [enhancement]
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: What task are you solving? / Какую задачу вы решаете?
+      placeholder: "For example: I need to send a scan to a portal with a 10 MB limit / Например: нужно отправить скан на портал с лимитом 10 МБ"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What gets in the way now? / Что мешает сейчас?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: How do you see it? (optional) / Как вы это видите? (необязательно)
