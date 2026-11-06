@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/DmitroRussia/construct-pdf/releases/latest"><img alt="Последняя версия" src="https://img.shields.io/github/v/release/DmitroRussia/construct-pdf?label=версия&color=c62828"></a>
+<a href="https://github.com/DmitroRussia/construct-pdf/releases/latest"><img alt="Последняя версия" src="https://img.shields.io/github/v/release/DmitroRussia/construct-pdf?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=c62828"></a>
 <img alt="Windows 7–11" src="https://img.shields.io/badge/Windows-7%20%E2%80%93%2011-2a1d1a">
 </p>
 
