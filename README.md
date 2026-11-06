@@ -18,7 +18,8 @@ No ads, no sign-up, no watermarks. Works offline: your documents stay on your co
 <img alt="Windows 7–11" src="https://img.shields.io/badge/Windows-7%20%E2%80%93%2011-2a1d1a">
 </p>
 
-<!-- SCREENSHOT: images/editor-en.png — real program window, example document -->
+<p align="center"><img src="images/editor-en.png" alt="Construct PDF: editing text in a scanned document" width="100%"></p>
+<p align="center"><sub>Edit mode on a scanned page: every recognized line can be edited. On the right — the Tools panel. Example document with fictional data.</sub></p>
 
 ---
 

@@ -18,7 +18,8 @@
 <img alt="Windows 7–11" src="https://img.shields.io/badge/Windows-7%20%E2%80%93%2011-2a1d1a">
 </p>
 
-<!-- СКРИНШОТ: images/editor-ru.png — настоящее окно программы, учебный документ -->
+<p align="center"><img src="images/editor-ru.png" alt="Construct PDF: правка текста в скане" width="100%"></p>
+<p align="center"><sub>Режим правки на скане: каждую распознанную строку можно редактировать. Справа — панель «Инструменты». Учебный документ, данные вымышлены.</sub></p>
 
 ---
 
