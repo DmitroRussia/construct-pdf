@@ -45,7 +45,7 @@
 |---|---|---|
 | Windows 7, 8.1, 10, 11 | Установщик, около 18 МБ | [constructpdf.ru](https://constructpdf.ru/skachat.html) · [копия на GitHub](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
 | Windows 7, 8.1, 10, 11 | ZIP без установки | [constructpdf.ru](https://constructpdf.ru/skachat.html) · [копия на GitHub](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
-| Linux x64 | Бета, `.tar.gz` — часть функций Windows-версии ещё переносится | [constructpdf.ru](https://constructpdf.ru/pdf-redaktor-linux.html) · [копия на GitHub](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
+| Linux x64 (1.8.2) | `.deb` (Astra Linux, Debian, Ubuntu, Mint), `.rpm` (РЕД ОС, Альт, Fedora), `.tar.gz` (любой дистрибутив) | [constructpdf.ru](https://constructpdf.ru/pdf-redaktor-linux.html) · [копия на GitHub](https://github.com/DmitroRussia/construct-pdf/releases/tag/linux-v1.8.2) |
 | Онлайн-версия | Работает в браузере, без установки | [constructpdf.online](https://constructpdf.online) |
 
 Программа сама проверяет обновления и предлагает установить новую версию.
@@ -60,13 +60,23 @@
 Get-FileHash .\ConstructPDF-1.7-Setup.exe -Algorithm SHA256
 ```
 
+Пакеты Linux 1.8.2:
+
+```text
+1e37e92072aa24e374c546197415e3378dafb36615b34ac9b992a392fd909542  constructpdf_1.8.2_amd64.deb
+96d5c9687855aba20276e6126308dfac18e0f4b29fbe5f74e30dac5a5acec969  constructpdf-1.8.2-1.x86_64.rpm
+df3f4685755a40bb7a21caa6554187b2e9afce8133bcb345cb09b3e40fdb45eb  ConstructPDF-Linux-x64.tar.gz
+```
+
+Проверить в Linux: `sha256sum constructpdf_1.8.2_amd64.deb`
+
 Совпадение суммы подтверждает, что файл тот же, что опубликован здесь, но само по себе не гарантирует безопасность.
 
 ## Ограничения
 
 - При закрашивании свойства документа и закладки проверяйте отдельно.
 - Распознавание — только русский и английский.
-- Версия для Linux пока в бете.
+- В версии для Linux 29 инструментов; распознавание текста, подпись КриптоПро и сканирование пока только в Windows.
 
 ## Обратная связь
 

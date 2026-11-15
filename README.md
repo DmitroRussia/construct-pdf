@@ -40,7 +40,7 @@ No ads, no sign-up, no watermarks. Works offline: your documents stay on your co
 |---|---|---|
 | Windows 7, 8.1, 10, 11 | Installer, about 18 MB | [constructpdf.ru](https://constructpdf.ru/en/download.html) · [GitHub mirror](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
 | Windows 7, 8.1, 10, 11 | Portable ZIP, runs without installation | [constructpdf.ru](https://constructpdf.ru/en/download.html) · [GitHub mirror](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
-| Linux x64 | Beta, `.tar.gz` — some Windows features are still being ported | [constructpdf.ru](https://constructpdf.ru/en/pdf-editor-linux.html) · [GitHub mirror](https://github.com/DmitroRussia/construct-pdf/releases/latest) |
+| Linux x64 (1.8.2) | `.deb` (Astra Linux, Debian, Ubuntu, Mint), `.rpm` (RED OS, Alt, Fedora), `.tar.gz` (any distribution) | [constructpdf.ru](https://constructpdf.ru/en/pdf-editor-linux.html) · [GitHub mirror](https://github.com/DmitroRussia/construct-pdf/releases/tag/linux-v1.8.2) |
 | Web version | Works in a browser, no installation | [constructpdf.online](https://constructpdf.online/en/) |
 
 The app checks for updates and offers to install a new version.
@@ -55,13 +55,23 @@ The app checks for updates and offers to install a new version.
 Get-FileHash .\ConstructPDF-1.7-Setup.exe -Algorithm SHA256
 ```
 
+Linux 1.8.2 packages:
+
+```text
+1e37e92072aa24e374c546197415e3378dafb36615b34ac9b992a392fd909542  constructpdf_1.8.2_amd64.deb
+96d5c9687855aba20276e6126308dfac18e0f4b29fbe5f74e30dac5a5acec969  constructpdf-1.8.2-1.x86_64.rpm
+df3f4685755a40bb7a21caa6554187b2e9afce8133bcb345cb09b3e40fdb45eb  ConstructPDF-Linux-x64.tar.gz
+```
+
+Check on Linux: `sha256sum constructpdf_1.8.2_amd64.deb`
+
 A matching checksum confirms the file is the one published here; it is not a safety guarantee by itself.
 
 ## Limitations
 
 - When redacting, check document properties and bookmarks separately.
 - OCR supports Russian and English only.
-- The Linux version is in beta.
+- The Linux version has 29 tools; OCR, CryptoPro signatures and scanning are Windows-only for now.
 
 ## Feedback
 
