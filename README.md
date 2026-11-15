@@ -60,7 +60,7 @@ Linux 1.8.2 packages:
 ```text
 1e37e92072aa24e374c546197415e3378dafb36615b34ac9b992a392fd909542  constructpdf_1.8.2_amd64.deb
 96d5c9687855aba20276e6126308dfac18e0f4b29fbe5f74e30dac5a5acec969  constructpdf-1.8.2-1.x86_64.rpm
-df3f4685755a40bb7a21caa6554187b2e9afce8133bcb345cb09b3e40fdb45eb  ConstructPDF-Linux-x64.tar.gz
+df3f4685755a40bb7a21caa6554187b2e9afce8133bcb345cb09b3e40fdb45eb  constructpdf-linux-x64.tar.gz
 ```
 
 Check on Linux: `sha256sum constructpdf_1.8.2_amd64.deb`
